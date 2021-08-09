@@ -17,7 +17,7 @@ const harrispc = require {
    ram : 16gb
    graphics card: GTX 1080
    stroage: 1tb hdd & 1tb ssd
-} 
+} ```
 
 ^ These are my pc spes ;0
  
