@@ -7,7 +7,9 @@ const Harris = require {
   Youtuber : Harris Gaming
   Discord Id: Harris.#0001
   Gamer : Minecraft kek
-}```
+}
+
+
 
 Hello Gamerz Mostly Everything is listed above *but* still you need something it is down below
 
@@ -17,7 +19,9 @@ const harrispc = require {
    ram : 16gb
    graphics card: GTX 1080
    stroage: 1tb hdd & 1tb ssd
-} ```
+} 
+
+
 
 ^ These are my pc spes ;0
  
